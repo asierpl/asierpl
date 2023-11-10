@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asierpl
-- 👀 I’m interested in React
-- 🌱 I’m currently learning React
+- 👀 I’m interested in React.js
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
