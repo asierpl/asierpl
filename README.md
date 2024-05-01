@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @asierpl
-- 👀 I’m interested in React.js
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Saludos, soy Asier Pérez, un desarrollador Full-Stack en proceso de crecimiento y aprendizaje.
 
-<!---
-asierpl/asierpl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 He dado mis primeros pasos en el desarrollo MERN y recientemente he completado mi primer proyecto utilizando React que puedes visualizar en el repositorio [proyecto-react](https://github.com/asierpl/proyecto-react)
+
+🔍 Estoy interesado en oportunidades que me permitan seguir desarrollando mis habilidades y contribuir de manera significativa en proyectos desafiantes.
+
+📈 En constante búsqueda de mejora, estoy dedicando tiempo a explorar nuevas tecnologías y mantenerme al día con las últimas tendencias en desarrollo web.
+
+¡Estoy abierto a nuevas oportunidades de colaboración y aprendizaje!
