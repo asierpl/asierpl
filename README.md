@@ -1,4 +1,4 @@
-👋 Saludos, soy Asier Pérez, un desarrollador Full-Stack especializado en el stack MERN.
+👋 ¡Hola!, soy Asier Pérez, un desarrollador Full-Stack especializado en el stack MERN.
 
 💼 Puedes ver mis proyectos en mi portfolio: [alcyonet.es](https://alcyonet.es).
 
